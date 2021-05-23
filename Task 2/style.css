@@ -1,0 +1,21 @@
+body{
+    font-family:'Franklin Gothic Medium';
+}
+.content{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+input[type="text"], input[type="email"],input[type="password"], input[type="submit"]{
+    width: 150px;
+    margin-bottom: 20px;
+}
+h1{
+    color:dodgerblue;
+}
+.btn{
+    color:white;
+    background-color: dodgerblue;
+    width: 70px !important;
+    height: 40px;
+}
